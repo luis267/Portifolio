@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leitura",
+            "request": "launch",
+            "mainClass": "Leitura",
+            "projectName": "Portifolio_8566b1a3"
+        },
+        {
+            "type": "java",
             "name": "Condicional",
             "request": "launch",
             "mainClass": "Condicional",
