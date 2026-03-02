@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OutroLoop",
+            "request": "launch",
+            "mainClass": "OutroLoop",
+            "projectName": "Portifolio_8566b1a3"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "Portifolio_8566b1a3"
+        },
+        {
+            "type": "java",
             "name": "Leitura",
             "request": "launch",
             "mainClass": "Leitura",
