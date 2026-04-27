@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Desafio",
+            "projectName": "Portifolio_8566b1a3"
+        },
+        {
+            "type": "java",
             "name": "OutroLoop",
             "request": "launch",
             "mainClass": "OutroLoop",
